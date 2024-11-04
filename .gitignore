@@ -1,0 +1,6 @@
+*.code-workspace
+/.projectile
+node_modules/
+.env
+*.env
+env*
