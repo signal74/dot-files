@@ -9,6 +9,7 @@ setopt SHARE_HISTORY          # Share history between all sessions.
 setopt INC_APPEND_HISTORY     # History updated immediately
 setopt APPEND_HISTORY         # Ensure all commands are appended to the history file.
 setopt EXTENDED_HISTORY       # Save timestamp and duration of command in history
+setopt HIST_IGNORE_SPACE
 
 # ========= ZSH PLUGINS =========
 # git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
